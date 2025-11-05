@@ -6,7 +6,15 @@
 
 
 
+<div align="center">
 
+---
+
+# 🌐 HTML5 • CSS3 • JavaScript • React.js • Next.js • Tailwind CSS • Redux Toolkit ⚛ Node.js • Express.js • MongoDB • Mongoose 💾 REST API • JWT • Postman 📬 Git / GitHub • VS Code • Figma • NPM • Webpack • Vite 🛠
+
+---
+
+</div>
 
 
 ## 🧠 About Me
