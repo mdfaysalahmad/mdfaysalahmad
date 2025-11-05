@@ -1,75 +1,9 @@
 # 👋 Hi there, I'm **Md. Faysal Ahmad**
 ### 💻 "Frontend Development | 🎨 UI Enthusiast | 🚀 Lifelong Learner"
 
-<!-- Save this content to assets/banner.svg -->
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" preserveAspectRatio="xMidYMid slice">
-  <defs>
-    <linearGradient id="g1" x1="0" x2="1" y1="0" y2="1">
-      <stop offset="0%" stop-color="#0f172a"/>
-      <stop offset="50%" stop-color="#0ea5a9"/>
-      <stop offset="100%" stop-color="#7c3aed"/>
-    </linearGradient>
-    <filter id="f1" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="25" result="b" />
-      <feBlend in="SourceGraphic" in2="b" mode="screen"/>
-    </filter>
-    <style>
-      .title { font: 700 36px 'Inter', sans-serif; fill: #ffffff; }
-      .subtitle { font: 500 18px 'Inter', sans-serif; fill: #e6f7f7; opacity:0.95; }
-      .skill { font: 600 12px 'Inter', sans-serif; fill: #08121a; }
-      .chip { rx:8; ry:8; fill:#ffffff; opacity:0.95; }
-    </style>
-  </defs>
-
-  <rect width="1200" height="360" fill="url(#g1)"/>
-  <!-- subtle diagonal lines -->
-  <g opacity="0.06" fill="#000">
-    <rect x="0" y="0" width="1200" height="360" />
-    <g transform="rotate(-15 600 180)">
-      <rect x="-200" y="0" width="1400" height="4" y="10" />
-      <rect x="-200" y="40" width="1400" height="4" y="10" />
-      <rect x="-200" y="80" width="1400" height="4" y="10" />
-    </g>
-  </g>
-
-  <!-- left content -->
-  <g transform="translate(60,60)">
-    <text class="title">Md. Faysal Ahmad</text>
-    <text class="subtitle" y="48">MERN Stack Developer • Frontend & Backend • UI Enthusiast</text>
-
-    <!-- chips -->
-    <g transform="translate(0,90)">
-      <g transform="translate(0,0)">
-        <rect class="chip" width="150" height="30"></rect>
-        <text class="skill" x="14" y="20">React • Next.js • Tailwind</text>
-      </g>
-      <g transform="translate(170,0)">
-        <rect class="chip" width="180" height="30"></rect>
-        <text class="skill" x="14" y="20">Node.js • Express • MongoDB</text>
-      </g>
-      <g transform="translate(370,0)">
-        <rect class="chip" width="140" height="30"></rect>
-        <text class="skill" x="14" y="20">TypeScript • API</text>
-      </g>
-    </g>
-  </g>
-
-  <!-- right icons / decorative -->
-  <g transform="translate(820,90)" opacity="0.95" filter="url(#f1)">
-    <!-- simple circular icon placeholders -->
-    <circle cx="70" cy="40" r="36" fill="#ffffff" opacity="0.12"/>
-    <text x="70" y="47" text-anchor="middle" font="600 20px Inter" fill="#fff">⚛</text>
-
-    <circle cx="150" cy="40" r="36" fill="#ffffff" opacity="0.12"/>
-    <text x="150" y="47" text-anchor="middle" font="600 20px Inter" fill="#fff">⬢</text>
-
-    <circle cx="110" cy="110" r="36" fill="#ffffff" opacity="0.12"/>
-    <text x="110" y="118" text-anchor="middle" font="600 18px Inter" fill="#fff">🛠</text>
-  </g>
-
-  <!-- subtle bottom wave -->
-  <path d="M0,300 C200,240 400,340 600,300 C800,260 1000,340 1200,300 L1200,360 L0,360 Z" fill="#071029" opacity="0.12" />
-</svg>
+<p align="center">
+ <img src="https://github.com/user-attachments/assets/79bfac42-3540-4cf5-b809-8e28f43621ac" alt="My Banner" width="1000">
+</p>
 
 
 
