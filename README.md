@@ -1,9 +1,15 @@
 # 👋 Hi there, I'm **Faysal Ahmad**
 ### 💻 "Frontend Development | 🎨 UI Enthusiast | 🚀 Lifelong Learner"
 
-<p align="center">
- <img src="https://github.com/user-attachments/assets/79bfac42-3540-4cf5-b809-8e28f43621ac" alt="My Banner" width="1000">
-</p>
+<div align="center">
+
+---
+
+# 🌐 HTML5 • CSS3 • JavaScript • React.js • Next.js • Tailwind CSS • Redux Toolkit ⚛ Node.js • Express.js • MongoDB • Mongoose 💾 REST API • JWT • Postman 📬 Git / GitHub • VS Code • Figma • NPM • Webpack • Vite 🛠
+
+---
+
+</div>
 
 
 
