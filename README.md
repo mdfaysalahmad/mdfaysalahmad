@@ -1,9 +1,8 @@
 # 👋 Hi there, I'm **Md. Faysal Ahmad**
 ### 💻 "Frontend Development | 🎨 UI Enthusiast | 🚀 Lifelong Learner"
 
-<p align="center">
- <img src="https://github.com/user-attachments/assets/79bfac42-3540-4cf5-b809-8e28f43621ac" alt="My Banner" width="1000">
-</p>
+
+![WhatsApp Image 2025-11-05 at 21 23 21_134e1a62](https://github.com/user-attachments/assets/05851f92-e836-4828-b801-5dd7702f55b0)
 
 
 
